@@ -1,7 +1,11 @@
 package Interface;
 
 interface vehicle{
-    public static final int a=10; 
+     
+    static final int a=10; 
+
+    
+
        public  void printHello(); 
        
        public default void def(){
