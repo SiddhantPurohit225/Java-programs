@@ -21,6 +21,10 @@ class Main {
 		Outer outer = new Outer();
 		outer.test();
 		Outer.Inner innerclass = new Outer.Inner();
-		innerclass.display();  // Correct way to call the static method
+		innerclass.display();  
+
+        //else:
+        // Outer.Inner.display();
+
 	}
 }
