@@ -99,6 +99,7 @@ class InventoryManager {
 class InventorySystem {
 
     public static void main(String[] args) {
+        
         InventoryManager manager = new InventoryManager(); // Creating items using factory method
         Item laptop = ItemFactory.createItem("1", "Dell XPS 15", "Laptop", 1500.00, 10);
         Item smartphone = ItemFactory.createItem("2", "iPhone 13", "Smartphone", 999.99, 15);
