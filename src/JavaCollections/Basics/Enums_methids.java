@@ -1,4 +1,4 @@
-package JavaCollections;
+package JavaCollections.Basics;
 
 enum Animal {
     CAT {

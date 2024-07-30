@@ -18,6 +18,11 @@ public class Exp1 {
 
      
         String[] arr ={"a","b","c"};
+
+        System.out.println("printing the array using Arrays.toString(arr):");
+        System.out.println(Arrays.toString(arr));
+
+        System.out.println("printing after list coversion   ");
         List<String> l= Arrays.asList(arr);
         System.out.println(l);
 

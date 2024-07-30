@@ -1,4 +1,4 @@
-package JavaCollections;
+package JavaCollections.Basics;
 
 enum DayOfwEEK {
 MON,

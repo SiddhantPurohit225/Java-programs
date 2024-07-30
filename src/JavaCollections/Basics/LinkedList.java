@@ -1,4 +1,4 @@
-package JavaCollections;
+package JavaCollections.Basics;
 import java.util.*;
 
 class LinkedList1

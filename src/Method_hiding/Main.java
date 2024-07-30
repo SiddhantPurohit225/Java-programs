@@ -5,6 +5,12 @@ package Method_hiding;
 //methods based on the reference type and not based on the run time object.
 //also k/a static polmorphism.
 
+//each static variable/method belongs to its own class only so using the exact same class in the child
+//class has no problem
+
+//IMP:: the static methods are always resolved using the ref type only though they can be accessed 
+//by creating instances
+
 
 class Parent {
     public static void f1()
