@@ -23,7 +23,7 @@ class Subclass implements inter
     }
 }
 
- class Main
+ class pol
 {
 	public static void main(String[] args) {
 		

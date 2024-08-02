@@ -1,0 +1,6 @@
+100
+A
+100 as string
+true
+100
+X{x=110000, name='Sidd'}
